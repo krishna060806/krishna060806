@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey, I'm Krishna Dwivedi 👋
 
-<!--
-**krishna060806/krishna060806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Analytics Undergraduate | Developer | Tech Enthusiast
 
-Here are some ideas to get you started:
+- 🎓 B.Tech CSE – AI & Analytics at MIT-ADT University
+- 🤖 Interested in Machine Learning, AI and Data Science
+- 🚀 Building intelligent systems and real-world projects
+- 🏆 Smart India Hackathon Finalist – SIH 2025
+- 🌱 Currently exploring ML, Python and Data Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+**Languages:** Java, Python, SQL
+
+**AI/ML:** NumPy, Pandas, Scikit-learn, Keras
+
+**Databases:** MySQL, PostgreSQL, MongoDB
+
+**Tools:** Git, GitHub, Google Colab, Tableau
+
+### Featured Projects
+
+- SAIL DSS – Rake Optimization
+- KMRL Metro App – UI/UX Design
+- Bank Management System – Java & JDBC
+
+### Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/krishna-dwivedi-247010349/)
