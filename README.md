@@ -22,7 +22,7 @@
 
 - SAIL DSS – Rake Optimization
 - KMRL Metro App – UI/UX Design
-- Bank Management System – Java & JDBC
+- AI Dungeon Master — The Forgotten Dungeon
 
 ### Connect With Me
 
