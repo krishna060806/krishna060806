@@ -12,11 +12,11 @@
 
 **Languages:** Java, Python, SQL
 
-**AI/ML:** NumPy, Pandas, Scikit-learn, Keras
+**AI/ML:** NumPy, Pandas, Scikit-learn, Keras, TensorFlow
 
 **Databases:** MySQL, PostgreSQL, MongoDB
 
-**Tools:** Git, GitHub, Google Colab, Tableau
+
 
 ### Featured Projects
 
